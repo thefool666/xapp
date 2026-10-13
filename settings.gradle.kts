@@ -5,11 +5,11 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-dependencyResolutionManagement {
+dependencyManagement {
     repositories {
         google()
         mavenCentral()
     }
 }
-rootProject.name = "Shell"
+rootProject.name = "shell"
 include(":app")
