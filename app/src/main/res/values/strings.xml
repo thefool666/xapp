@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">shell</string>
+    <!-- MT 改名占位符：搜索"ShellApp改名处"替换成目标应用名 -->
+    <string name="app_name">ShellApp改名处</string>
 </resources>
